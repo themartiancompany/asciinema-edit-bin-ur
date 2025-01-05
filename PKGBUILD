@@ -5,7 +5,7 @@
 # Maintainer: Malachi Soord <me@malachisoord.com>
 
 _pkg=asciinema-edit
-pkgname="${_bin}-bin"
+pkgname="${_pkg}-bin"
 pkgver=0.0.6
 pkgrel=1
 pkgdesc="asciinema casts post-production tools."
